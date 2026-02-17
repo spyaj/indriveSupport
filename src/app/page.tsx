@@ -120,7 +120,7 @@ export default function Home() {
       <footer className="bg-gray-900 border-t border-gray-700 mt-12">
         <div className="max-w-[1600px] mx-auto px-6 py-6 text-center">
           <p className="text-gray-400 text-sm">
-            inDrive Support Portal v3.1 | {languageNames[language as any]} | {data.solutions.length} Solutions
+            inDrive Support Portal v3.1 | {languageNames[language as keyof typeof languageNames]} | {data.solutions.length} Solutions
           </p>
         </div>
       </footer>

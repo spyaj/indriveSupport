@@ -18,7 +18,8 @@ export const EN = {
       number: "1️⃣",
       title: "Opening / Greeting (For Both Drivers & Passengers)",
       lines: [
-        "Hello 👋, thank you for contacting inDrive Support. My name is Pramod. How can I help you today?",
+        "Hello 👋, thank you for contacting inDrive Support.",
+        "My name is Pramod. How can I help you today?"
       ]
     },
     empathy: {
@@ -67,8 +68,8 @@ export const EN = {
       title: "Closing / Sign-Off (For Both)",
       lines: [
         "If you have any other questions or need further support, please don't hesitate to reach out to us again through this chat or visit the Help section in the side menu of the app. We're always happy to help, thank you for contacting us.",
-        "I haven't received a reply from your side, so I'll close this chat for now. If you have any other questions or need further support, please don't hesitate to reach out to us again through this chat or visit the Help section in the side menu of the app. We're always happy to help, thank you for contacting us.",
         "Thank you for contacting inDrive Support. Have a safe day!",
+        "I haven't received a reply from your side, so I'll close this chat for now. If you have any other questions or need further support, please don't hesitate to reach out to us again through this chat or visit the Help section in the side menu of the app. We're always happy to help, thank you for contacting us."
       ]
     }
   },
